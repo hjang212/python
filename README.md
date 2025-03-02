@@ -11,6 +11,7 @@
 - **Lists** are a type of data structure in Python that store ordered collections of items. They are **mutable**, meaning their elements can be changed.
 - You can access elements in a list using **indexing** (starting from 0) and create **slices** to extract portions of the list.
 ---
+
 ### Modify the contents of a list
 - append(): Adds an element to the end of a list.
 - insert(): Inserts an element at a specific index.
@@ -21,6 +22,7 @@
 
 
 
-
+---
 ### References:
-- (kaggle)[https://www.kaggle.com/competitions/titanic/data]
+- [kaggle](https://www.kaggle.com/competitions/titanic/data)
+- [Python Documentation](https://docs.python.org/3.14/contents.html)
